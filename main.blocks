@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="1zueb4d:]sTMRMYeWZlc">t0</variable><variable id="OrT%};PH.l7cem/H0Yp)">t1</variable><variable id="l|5UBgs}5P!HqQ2$uy.;">d</variable></variables><block type="device_pin_event" id="H5o=z8KPtB!suck+OgRG" x="0" y="0"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="variables_set" id="|f6.D`#35ULV=+WAE+*o"><field name="VAR" id="1zueb4d:]sTMRMYeWZlc">t0</field><value name="VALUE"><shadow type="math_number" id="y;{y[g5(A+_4a.VB9tOA"><field name="NUM">0</field></shadow><block type="control_event_timestamp&quot;" id="3bK|i$uB25pbPnoptxV_"></block></value><next><block type="device_show_leds" id="hdDp}[?h~bSQZDRh?+{)"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . .
+        `</field></block></next></block></statement></block><block type="pxt-on-start" id="86}f]tC+e{$HridLcC-3" x="419" y="0"><statement name="HANDLER"><block type="device_show_leds" id="4Kz1M;.v;GhKlv]V4O?*"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_pin_event" id="z-${fheMQTluNmSq!t4b" x="223" y="80"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="G{!5Lv_#Cj.#OeRvH1Ze"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . #
+        `</field></block></statement></block></xml>
